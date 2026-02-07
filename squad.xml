@@ -3,14 +3,14 @@
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
 <squad nick="NAVY GROUND">
 	<name>NAVY GROUND</name>
-	<email></email>
+	<email>-</email>
 	<web>https://units.arma3.com/unit/groundyothin</web>
-	<picture>https://ibb.co/sdRJVnWq</picture>
+	<picture>//ibb.co/sdRJVnWq</picture>
 	<title>NAVY GROUND</title>
 	<member id="76561198081581182" nick="RIVER HOUSE">
 		<name>RIVER HOUSE</name>
-		<email></email>
-		<icq></icq>
-		<remark></remark>
+		<email>-</email>
+		<icq>-</icq>
+		<remark>-</remark>
 	</member>
 </squad>
